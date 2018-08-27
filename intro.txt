@@ -1,7 +1,11 @@
-#What is golang ?
+What is golang ?
 Go is a statically typed, compiled language in the tradition of C, with memory safety, garbage collection, 
-structural typing,[3] and CSP-style concurrency
+structural typing, and CSP-style concurrency
 
 Reference:
 https://golang.org/
 https://en.wikipedia.org/wiki/Go_(programming_language)
+
+What garbage collection algo used ?
+  They used tri-color mark and sweep alogorithm.
+https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
